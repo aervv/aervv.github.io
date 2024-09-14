@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://aervv.github.io/ffy/sitemap.ffy.gz
